@@ -1,7 +1,8 @@
 # Quotes
 This project creates a simple page with a button to display a random quote. It’s built using HTML, CSS, and JavaScript, and is perfect for beginners looking to practice basic web development skills.
-<hr>
+
 ## Live Demo : https://ahmed-abo-rafat.github.io/quotes/
+
 ## Features
 
 - **Random Quote Generator:** Displays a random quote when you click the button.
